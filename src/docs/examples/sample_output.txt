@@ -1,1 +1,13 @@
+Enter password: himanshu
 
+=== ADAPTIVE PASSWORD RISK REPORT ===
+Risk Category: Medium Risk
+Risk Score: 62.4
+Entropy: 37.6
+
+Flags:
+
+Estimated crack time:
+CPU: 208318.50 seconds
+GPU: 208.32 seconds
+Botnet: <1 second
